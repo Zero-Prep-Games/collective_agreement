@@ -12,9 +12,9 @@ Zero Prep Games Creative Collective ("Collective") is built on the foundations o
    
 2. **Membership Responsibilities**: All members are expected to actively participate in the Collective's activities and decision-making processes. Members are also expected to contribute to the Collective's work product in accordance with their skills and abilities.
 
-## AMENDMENTS TO THE AGREEMENT
+## 3. AMENDMENTS TO THE AGREEMENT
 
-1. Amendments to the agreement shall be made under a  ¾ (three fourths) majority.
+1. Amendments to the agreement shall be made under a ¾ (three fourths) majority.
 
 2. Amendments shall be made according to democratic principles, granting each voting member a single vote.
 
@@ -22,7 +22,7 @@ Zero Prep Games Creative Collective ("Collective") is built on the foundations o
    
 
 
-## 3.  FINANCIAL AGREEMENTS
+## 4.  FINANCIAL AGREEMENTS
 
 1. **Expenses**: All necessary expenses and liabilities incurred in the production, marketing, distribution, and sale of the Collective's games or other products will be paid from the Collective's revenues before profits are distributed.
 
@@ -32,25 +32,29 @@ Zero Prep Games Creative Collective ("Collective") is built on the foundations o
 
 4. **Profit Sharing**: When distributed to members, profits will be distributed equally among active members of the Collective.
 
-## 4. GOVERNANCE
+## 5. GOVERNANCE
 
 1. **Decision Making**: All decisions regarding the operations, management, and future of the Collective will be made democratically by its members. Each member will have one vote. Decisions will be made by a simple majority vote, unless otherwise specified in this agreement.
 
-2. **Meetings**: Regular meetings will be held, with the date and time to be decided upon by the members. Special meetings may also be held as needed.
+2. **Majorities**: Some decisions require a ¾ (three fourths) majority. Should the situation arise where there are only 3 active members, a two-thirds majority will replace a three-fourths. If there are only 2 active members, a unanimous vote would be required.
 
-## 5. LEAVING AND DISSOLUTION
+3. **Meetings**: Regular meetings will be held, with the date and time to be decided upon by the members. Special meetings may also be held as needed.
+
+4. **Tie Breakers**: at the first review of this document prior to signing, founding members must agree on a process for breaking tied votes.
+
+## 6. LEAVING AND DISSOLUTION
 
 1. **Leaving the Collective**: If a member decides to leave the Collective, they must provide written notice to the other members. They will be entitled to their share of the profits up to the date of their departure, but will not be entitled to any future profits from the Collective's projects.
    
-2. **Expulsion of a Member**: A member may be expelled from the Collective by a two-thirds majority vote of the other members. Reasons for expulsion may include, but are not limited to, a failure to fulfill membership responsibilities or a violation of this agreement.
+2. **Expulsion of a Member**: A member may be expelled from the Collective by a ¾ (three fourths) majority vote of the other members. Reasons for expulsion may include, but are not limited to, a failure to fulfill membership responsibilities or a violation of this agreement.
 
-3. **Dissolution of the Collective**: If the Collective decides to dissolve, all assets of the Collective, after paying off liabilities, will be divided equally among the members. This decision must be made by a two-thirds majority vote of the members.
+3. **Dissolution of the Collective**: If the Collective decides to dissolve, all assets of the Collective, after paying off liabilities, will be divided equally among the members. This decision must be made by ¾ (three fourths) majority of active members.
 
-## 6. DISPUTE RESOLUTION
+## 7. DISPUTE RESOLUTION
 
 In the event of a dispute between members, the Collective agrees to pursue mediation before litigation. All costs associated with mediation will be divided equally among the disputing parties.
 
-## 7. INTELLECTUAL PROPERTY AND ASSETS
+## 8. INTELLECTUAL PROPERTY AND ASSETS
 
 1. **Ownership**: All intellectual property (including but not limited to software code, art, creative assets, etc.), names, logos, and trademarks created by the Collective in the course of its activities ("Collective Assets") shall be owned by the Collective.
 
