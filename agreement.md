@@ -8,7 +8,7 @@ Zero Prep Games Creative Collective ("Collective") is built on the foundations o
 
 ## 2. STRUCTURE OF THE COLLECTIVE 
 
-1. **Membership**: Any individual interested in becoming a member of the Collective must express their intent in writing to the existing membership. The prospective member's application will then be reviewed and decided upon through a democratic voting process by the existing members. A prospective member's application will be approved if it receives a majority vote in favor.
+1. **Membership**: Any individual interested in becoming a member of the Collective must express their intent in writing to the existing membership. The prospective member's application will then be reviewed and decided upon through a democratic voting process by the existing members. A prospective member will be approved if they receive a majority vote in favour.
    
 2. **Membership Responsibilities**: All members are expected to actively participate in the Collective's activities and decision-making processes. Members are also expected to contribute to the Collective's work product in accordance with their skills and abilities.
 
